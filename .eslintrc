@@ -1,0 +1,34 @@
+{
+ "extends": "airbnb-base",
+  "plugins": [
+   "chai-expect"
+  ],
+  "env": {
+    "node": true,
+    "mocha": true
+  },
+  "rules": {
+    "no-var": 0,
+    "vars-on-top": 0,
+    "no-plusplus": 0,
+    "padded-blocks": 0,
+    "max-len": 0,
+    "newline-per-chained-call": 0,
+    "no-restricted-syntax": 0,
+    "guard-for-in": 0,
+    "object-shorthand": 0,
+    "func-names": 0,
+    "block-scoped-var": 0,
+    "consistent-return": 0,
+    "no-else-return": 0,
+    "quote-props": 0,
+    "comma-dangle": ["error", {
+        "arrays": "never",
+        "objects": "always",
+        "imports": "never",
+        "exports": "never",
+        "functions": "ignore",
+    }],
+    "brace-style": [1, "stroustrup", { "allowSingleLine": true }]
+   }
+}

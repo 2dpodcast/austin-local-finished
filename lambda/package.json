@@ -1,0 +1,19 @@
+{
+  "name": "local-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MerryOscar",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.8",
+    "axios": "^0.16.1",
+    "mailgun-js": "^0.10.1",
+    "nodemailer": "^4.0.1",
+    "nodemailer-ses-transport": "^1.5.1",
+    "opearlo-analytics": "^0.2.0"
+  }
+}

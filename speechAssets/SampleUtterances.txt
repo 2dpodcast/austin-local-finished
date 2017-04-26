@@ -1,0 +1,41 @@
+Restaurants a restaurant
+Restaurants a good restaurant
+Restaurants find me a restaurant
+Restaurants find me a good restaurant
+Restaurants recommend  me a restaurant
+Restaurants recommend  me a good restaurant
+Restaurants a {Cuisine} restaurant
+Restaurants a good {Cuisine} restaurant
+Restaurants find me a {Cuisine} restaurant
+Restaurants find me a good {Cuisine} restaurant
+Restaurants recommend  me a {Cuisine} restaurant
+Restaurants recommend  me a good {Cuisine} restaurant
+
+Attractions whats on
+Attractions what can i see
+Attractions what can i do
+Attractions ask for attractions
+Attractions give me attractions
+Attractions check attractions
+Attractions attractions
+
+Events what events are on
+Events ask for events
+Events give me events
+Events whats happening
+Events check events
+Events events
+
+News whats the news
+News the news
+News whats the local news
+News the local news
+News check news
+News news
+
+Facts give me a fact
+Facts check local facts
+Facts tell me something interesting
+Facts check facts
+Facts facts
+Facts a fact
